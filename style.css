@@ -5,7 +5,7 @@ body {
   font-size: 60px;
 }
 
-ul {
+#lista {
   font-size: 30px;
   display: flex;
   flex-wrap: wrap;
